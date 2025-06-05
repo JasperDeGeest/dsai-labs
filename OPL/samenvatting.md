@@ -1,4 +1,3 @@
-## CHEATSHEET
 ### HOOFDSTUK 1
 
 ### 🔹 `pd.read_csv(filepath)`
